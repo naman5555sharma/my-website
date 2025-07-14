@@ -12,7 +12,7 @@ permalink: /
 #     text: "More text here."
 ---
 
-Namo-namah, I'm currently a first year MS(By Research) student in IIT Bombay's [Computer Science and Engineering Department](https://www.cse.iitb.ac.in/). I am working with [Prof. Biswabandan Panda](https://www.cse.iitb.ac.in/~biswa/) exploring microarchitecture for performance. Our [research group](https://casper-iitb.github.io/).
+Namo-namah, I'm currently a final year MS(By Research) student in IIT Bombay's [Computer Science and Engineering Department](https://www.cse.iitb.ac.in/). I am working with [Prof. Biswabandan Panda](https://www.cse.iitb.ac.in/~biswa/) exploring microarchitecture for performance. Our [research group](https://casper-iitb.github.io/).
 
 I graduated with Btech in Information Technology from Engineering college, Ajmer in June 2022.
 
@@ -20,7 +20,7 @@ If I am not working on my computer, you can find me playing cricket. Reach out t
 
 ### Education
 
-- **MS(By Research) in Computer Science and Engineering**<br>_2023 - Present &#124; \*_<br>[Indian Institute of Technology, Bombay](https://www.iitb.ac.in/)
+- **MS(By Research) in Computer Science and Engineering**<br>_2023 - Present &#124; _CGPA:8.7*_<br>[Indian Institute of Technology, Bombay](https://www.iitb.ac.in/)
 - **B.Tech in Information Technology**<br>_2018 - 2022_ &#124; _CGPA: 8.15_<br>[Engineering College, Ajmer](https://ecajmer.ac.in/)
 - **HS in Science**<br>_2015 - 2017_ &#124; _Percentage: 73.8%_<br>[Mahaveer Public School, Jodhpur](https://www.mahaveerpublicschooljodhpur.com/)
 
@@ -35,9 +35,15 @@ The courses that I have taken in IIT Bombay are listed below in reverse chronolo
 **(*)indicates it's an ongoing course**
 
 <!-- - **CS 230** : Digital Logic Design and Computer Architecture, Spring 2023 -->
-- **CS 695\*** : Topics in Virtualization and Cloud Computing, Spring 2024
+- **CS 752\** : Process Engineering, Spring 2025
 
-- **CS 684\*** : Embedded Systems, Spring 2024
+- **CS 752\** : System Dynamics: Modeling & Simulation for Development, Spring 2025
+
+- **CS 773\** : Computer Architecture for Performance and Security, Spring 2025
+
+- **CS 695\** : Topics in Virtualization and Cloud Computing, Spring 2024
+
+- **CS 684\** : Embedded Systems, Spring 2024
 
 - **CS 683** : Advanced Computer Architecture, Autumn 2023
 
