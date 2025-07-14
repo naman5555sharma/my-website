@@ -12,9 +12,9 @@ permalink: /
 #     text: "More text here."
 ---
 
-Namo-namah, I'm currently a final year MS(By Research) student in IIT Bombay's [Computer Science and Engineering Department](https://www.cse.iitb.ac.in/). I am working under the guidance of [Prof. Biswabandan Panda](https://www.cse.iitb.ac.in/~biswa/) focusing on the performance aspects of microarchitecture,particularly data prefetching and cache management, as part of our [research group](https://casper-iitb.github.io/).  
+Namo-namah, I'm currently a final year MS(By Research) student in IIT Bombay's [Computer Science and Engineering Department](https://www.cse.iitb.ac.in/). I am working under the guidance of [Prof. Biswabandan Panda](https://www.cse.iitb.ac.in/~biswa/) focusing on the performance aspects of microarchitecture, particularly data prefetching and cache management, as part of our [research group](https://casper-iitb.github.io/).  
 
-I graduated with Btech in Information Technology from Engineering college, Ajmer in June 2022.
+I graduated with a B.Tech in Information Technology from the Engineering College, Ajmer, in June 2022.
 
 If I am not working on my computer, you can find me playing cricket. Reach out to me!
 
@@ -31,7 +31,7 @@ If I am not working on my computer, you can find me playing cricket. Reach out t
 
 ### Courses
 
-The courses that I have taken in IIT Bombay are listed below in reverse chronological order.
+The courses that I have taken at IIT Bombay are listed below in reverse chronological order.
 **(*)indicates it's an ongoing course**
 
 <!-- - **CS 230** : Digital Logic Design and Computer Architecture, Spring 2023 -->
@@ -41,7 +41,7 @@ The courses that I have taken in IIT Bombay are listed below in reverse chronolo
 
 - **CS 773\** : Computer Architecture for Performance and Security, Spring 2025
 
-- **CS 695\** : Topics in Virtualization and Cloud Computing, Spring 2024
+- **CS 695\** : Topics in Virtualisation and Cloud Computing, Spring 2024
 
 - **CS 684\** : Embedded Systems, Spring 2024
 
