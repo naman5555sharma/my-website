@@ -35,15 +35,15 @@ The courses that I have taken at IIT Bombay are listed below in reverse chronolo
 **(*)indicates it's an ongoing course**
 
 <!-- - **CS 230** : Digital Logic Design and Computer Architecture, Spring 2023 -->
-- **CS 752\** : Process Engineering, Spring 2025
+- **CS 770** : Process Engineering, Spring 2025
 
-- **CS 752\** : System Dynamics: Modeling & Simulation for Development, Spring 2025
+- **CS 752** : System Dynamics: Modeling & Simulation for Development, Spring 2025
 
-- **CS 773\** : Computer Architecture for Performance and Security, Spring 2025
+- **CS 773** : Computer Architecture for Performance and Security, Spring 2025
 
-- **CS 695\** : Topics in Virtualisation and Cloud Computing, Spring 2024
+- **CS 695** : Topics in Virtualisation and Cloud Computing, Spring 2024
 
-- **CS 684\** : Embedded Systems, Spring 2024
+- **CS 684** : Embedded Systems, Spring 2024
 
 - **CS 683** : Advanced Computer Architecture, Autumn 2023
 
