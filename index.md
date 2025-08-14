@@ -35,6 +35,8 @@ The courses that I have taken at IIT Bombay are listed below in reverse chronolo
 **(*)indicates it's an ongoing course**
 
 <!-- - **CS 230** : Digital Logic Design and Computer Architecture, Spring 2023 -->
+- **CS 690** : 	Privacy Enhancing Technologies, Autumn 2025
+
 - **CS 770** : Process Engineering, Spring 2025
 
 - **CS 752** : System Dynamics: Modeling & Simulation for Development, Spring 2025
